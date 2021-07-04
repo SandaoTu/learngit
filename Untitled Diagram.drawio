@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T09:47:20.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="hE9IdV6oZ7wTL-CDES1X" version="14.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-04T10:20:45.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-uvEhHHvwNHG7PZrcexT" version="14.8.3" type="github" pages="2">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="1038" dy="581" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="313" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,33 @@
         </mxCell>
         <mxCell id="KSW5xv-IBpdEUwikCmXP-18" value="$res = shell_exec( $cmd );" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;strokeColor=#b85450;fillColor=#f8cecc;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="325" y="410" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JKxnC0FZ5SrZLU6QjSB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0" edge="1" parent="1" source="8JKxnC0FZ5SrZLU6QjSB-1" target="8JKxnC0FZ5SrZLU6QjSB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JKxnC0FZ5SrZLU6QjSB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0" edge="1" parent="1" source="8JKxnC0FZ5SrZLU6QjSB-1" target="8JKxnC0FZ5SrZLU6QjSB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JKxnC0FZ5SrZLU6QjSB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0" edge="1" parent="1" source="8JKxnC0FZ5SrZLU6QjSB-1" target="8JKxnC0FZ5SrZLU6QjSB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JKxnC0FZ5SrZLU6QjSB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0" edge="1" parent="1" source="8JKxnC0FZ5SrZLU6QjSB-1" target="8JKxnC0FZ5SrZLU6QjSB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JKxnC0FZ5SrZLU6QjSB-1" value="不足" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="188" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="8JKxnC0FZ5SrZLU6QjSB-4" value="多线程支持欠佳" style="whiteSpace=wrap;html=1;shadow=1;fontStyle=0;strokeColor=#b46504;fillColor=#fad7ac;" vertex="1" parent="1">
+          <mxGeometry x="1058" y="195" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="8JKxnC0FZ5SrZLU6QjSB-6" value="独特的语法" style="whiteSpace=wrap;html=1;shadow=1;fontStyle=0;strokeColor=#0e8088;fillColor=#b0e3e6;" vertex="1" parent="1">
+          <mxGeometry x="926" y="279" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8JKxnC0FZ5SrZLU6QjSB-8" value="商业支持" style="whiteSpace=wrap;html=1;shadow=1;fontStyle=0;strokeColor=#56517e;fillColor=#d0cee2;" vertex="1" parent="1">
+          <mxGeometry x="798" y="198" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="8JKxnC0FZ5SrZLU6QjSB-10" value="运行效率略低" style="whiteSpace=wrap;html=1;shadow=1;fontStyle=0;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="1">
+          <mxGeometry x="926" y="116" width="120" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
